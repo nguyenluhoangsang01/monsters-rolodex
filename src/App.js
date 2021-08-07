@@ -27,6 +27,8 @@ function App() {
 
   return (
     <>
+      <h1>Monsters Rolodex</h1>
+
       <SearchBox
         placeholder="Search Monsters"
         handleChange={(e) => setSearchTerm(e.currentTarget.value)}

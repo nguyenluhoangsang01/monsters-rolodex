@@ -5,3 +5,10 @@ ul {
 li {
   list-style: none;
 }
+
+h1 {
+  font-family: "Bigelow Rules", cursive;
+  font-size: 72px;
+  color: #0ccac4;
+  text-align: center;
+}
